@@ -1,5 +1,33 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!60 &4908081349711903652
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7284027562320980351}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 6200000, guid: ee6446a68155a194bacafbf95ad1bd76, type: 2}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: -0.5, y: -0.5}
+      - {x: 0.5, y: -0.5}
+      - {x: 0.5, y: 0.5}
 --- !u!1001 &9168684505440183403
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -67,11 +95,23 @@ PrefabInstance:
       propertyPath: m_Name
       value: Slope Left Platform Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 1885782852757884393, guid: f6d09bfabf991cd46ae3eb0a252b7954,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1885782852757884394, guid: f6d09bfabf991cd46ae3eb0a252b7954,
         type: 3}
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 6576202649694883678, guid: e85c6e02fda4a004b84664f435ad4d73,
         type: 3}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 1885782852757884393, guid: f6d09bfabf991cd46ae3eb0a252b7954, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: f6d09bfabf991cd46ae3eb0a252b7954, type: 3}
+--- !u!1 &7284027562320980351 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1885782852757884180, guid: f6d09bfabf991cd46ae3eb0a252b7954,
+    type: 3}
+  m_PrefabInstance: {fileID: 9168684505440183403}
+  m_PrefabAsset: {fileID: 0}
