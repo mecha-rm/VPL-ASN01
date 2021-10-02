@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1001 &6021233433843305328
+--- !u!1001 &487075745834797179
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -15,7 +15,7 @@ PrefabInstance:
     - target: {fileID: 1885782851626595353, guid: f6d09bfabf991cd46ae3eb0a252b7954,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1885782851626595353, guid: f6d09bfabf991cd46ae3eb0a252b7954,
         type: 3}
@@ -65,13 +65,13 @@ PrefabInstance:
     - target: {fileID: 1885782851626595354, guid: f6d09bfabf991cd46ae3eb0a252b7954,
         type: 3}
       propertyPath: m_Name
-      value: Single Left Platform
+      value: Top Platform Variant
       objectReference: {fileID: 0}
     - target: {fileID: 1885782852757884394, guid: f6d09bfabf991cd46ae3eb0a252b7954,
         type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 8506730005712635708, guid: e85c6e02fda4a004b84664f435ad4d73,
+      objectReference: {fileID: 4294643669078967044, guid: e85c6e02fda4a004b84664f435ad4d73,
         type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f6d09bfabf991cd46ae3eb0a252b7954, type: 3}
