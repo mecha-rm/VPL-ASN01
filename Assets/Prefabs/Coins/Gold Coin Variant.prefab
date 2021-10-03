@@ -21,7 +21,7 @@ PrefabInstance:
     - target: {fileID: 1448934195889102188, guid: c46d796c160a3b040bf92767ed3a1d7e,
         type: 3}
       propertyPath: m_Name
-      value: Gold Coin
+      value: Gold Coin Variant
       objectReference: {fileID: 0}
     - target: {fileID: 1448934195889102191, guid: c46d796c160a3b040bf92767ed3a1d7e,
         type: 3}
@@ -31,17 +31,17 @@ PrefabInstance:
     - target: {fileID: 1448934195889102191, guid: c46d796c160a3b040bf92767ed3a1d7e,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 12
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1448934195889102191, guid: c46d796c160a3b040bf92767ed3a1d7e,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1448934195889102191, guid: c46d796c160a3b040bf92767ed3a1d7e,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 10
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1448934195889102191, guid: c46d796c160a3b040bf92767ed3a1d7e,
         type: 3}
