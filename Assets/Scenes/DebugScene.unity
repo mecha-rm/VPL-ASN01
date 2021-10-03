@@ -538,7 +538,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"sceneManager","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"nextScene","value":{"$content":"DebugScene","$type":"System.String"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"collection":{"$content":[{"name":"sceneManager","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"coinAmount","value":{"$content":0,"$type":"System.Int32"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 1048419408}
 --- !u!4 &403947912
