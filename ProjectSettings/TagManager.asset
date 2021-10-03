@@ -6,8 +6,8 @@ TagManager:
   tags:
   - Platform
   - Coin
-  - Hazard
   - Enemy
+  - Spike
   layers:
   - Default
   - TransparentFX
