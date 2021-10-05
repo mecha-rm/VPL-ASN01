@@ -199,8 +199,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[],"$version":"A"},"$version":"A"}}'
-    _objectReferences: []
+    _json: '{"declarations":{"collection":{"$content":[{"name":"boxCol","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"rigidBody","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"sprite","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 1281834043504138803}
+    - {fileID: 6801759430174012011}
+    - {fileID: 3279753681237500186}
 --- !u!114 &3279753682368927956
 MonoBehaviour:
   m_ObjectHideFlags: 0
